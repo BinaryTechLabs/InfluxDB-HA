@@ -1,2 +1,4 @@
 # InfluxDB-HA
-InfluxDB Installation
+InfluxDB Installation for Home Assistant
+
+### Not tested yet
